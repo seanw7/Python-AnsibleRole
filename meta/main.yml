@@ -1,6 +1,6 @@
 galaxy_info:
   author: Sean Wilkie
-  description: 
+  description: Installs Python and listed dependencies
   company: your company (optional)
   
   # If the issue tracker for your role is not on github, uncomment the
@@ -215,7 +215,8 @@ galaxy_info:
   #  - all
   #  - Any
   
-  galaxy_tags: []
+  galaxy_tags:
+    - Python
     # List tags for your role here, one per line. A tag is
     # a keyword that describes and categorizes the role.
     # Users find roles by searching for tags. Be sure to
